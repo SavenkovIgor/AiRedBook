@@ -1,0 +1,6 @@
+.env
+venv/
+
+gpt-helper/
+
+.ipynb_checkpoints
